@@ -1,0 +1,8 @@
+streamlit
+torch
+transformers
+sentencepiece
+pandas
+numpy
+scikit-learn
+laya==0.4.21
