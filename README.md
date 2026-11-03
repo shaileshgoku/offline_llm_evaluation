@@ -4,6 +4,8 @@ An end-to-end application that evaluates Large Language Model (LLM) responses us
 
 The project demonstrates how to systematically evaluate LLM-generated responses using predefined evaluation criteria, reference answers, and contextual information.
 
+streamlit link: https://offlinellmevaluation-sj8fyfsefwbde5m3oj48ts.streamlit.app/
+
 ## Overview
 
 Generating an answer is only one part of building an AI application.
