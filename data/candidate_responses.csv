@@ -1,0 +1,101 @@
+test_id,candidate_response
+TC001,30
+TC002,i.
+TC003,original order ID
+TC004,No
+TC005,through the customer account
+TC006,Customers receive a return confirmation
+TC007,yes
+TC008,30 days
+TC009,delivery date
+TC010,by email
+TC011,3 to 5 business days
+TC012,1 to 2 business days
+TC013,after the order is confirmed
+TC014,yes
+TC015,after dispatch
+TC016,weather conditions
+TC017,complete delivery address
+TC018,before order confirmation
+TC019,processed
+TC020,registered phone number
+TC021,No
+TC022,before shipment
+TC023,order ID
+TC024,yes
+TC025,no
+TC026,an email
+TC027,order processing status
+TC028,No
+TC029,when the order contains multiple items
+TC030,Contact support
+TC031,5 to 7 business days
+TC032,original payment method
+TC033,non-refundable
+TC034,an email
+TC035,a).
+TC036,Report to customer support
+TC037,Cash-on-delivery refunds
+TC038,valid bank details
+TC039,pass inspection
+TC040,Customers can check refund status from their account
+TC041,"5,000"
+TC042,yes
+TC043,yes
+TC044,yes
+TC045,yes
+TC046,before a prepaid order is confirmed
+TC047,No
+TC048,before checkout confirmation
+TC049,before the final payment amount is calculated
+TC050,No
+TC051,7 days
+TC052,original order ID
+TC053,Yes
+TC054,photos
+TC055,yes
+TC056,No
+TC057,an email
+TC058,after exchange approval
+TC059,Yes
+TC060,No
+TC061,using the tracking link sent to their registered email
+TC062,after dispatch
+TC063,by email
+TC064,24 hours
+TC065,in their account
+TC066,latest shipment status
+TC067,Contact support
+TC068,Delivery partners
+TC069,a delivery confirmation
+TC070,yes
+TC071,before the order is shipped
+TC072,No
+TC073,before order dispatch
+TC074,No
+TC075,Contact support
+TC076,processing status
+TC077,before invoice generation
+TC078,No
+TC079,before order processing begins
+TC080,Customers receive confirmation when an order modification is successful
+TC081,12-month
+TC082,date of delivery
+TC083,Physical damage is not covered under the standard warranty.
+TC084,a).
+TC085,yes
+TC086,yes
+TC087,authorized service centres
+TC088,a service request number
+TC089,Yes
+TC090,inspection and product availability
+TC091,Monday to Saturday
+TC092,between 9 AM and 6 PM
+TC093,Yes
+TC094,yes
+TC095,order ID
+TC096,a ticket reference number
+TC097,using the reference number
+TC098,Additional investigation
+TC099,No
+TC100,registered email address

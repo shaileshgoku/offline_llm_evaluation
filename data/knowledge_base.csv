@@ -1,0 +1,101 @@
+policy_id,category,policy
+POL_001,returns,Customers can return products within 30 days of delivery.
+POL_002,returns,Returned products must be unused and in their original packaging.
+POL_003,returns,Customers must provide the original order ID when requesting a return.
+POL_004,returns,Products marked as final sale cannot be returned.
+POL_005,returns,Return requests must be submitted through the customer account.
+POL_006,returns,Customers receive a return confirmation after approval.
+POL_007,returns,Products with missing accessories may be rejected for return.
+POL_008,returns,Customers can request a return for defective products within 30 days.
+POL_009,returns,Return eligibility is calculated from the delivery date.
+POL_010,returns,Customers are notified by email when a return request is rejected.
+POL_011,delivery,Standard delivery takes 3 to 5 business days.
+POL_012,delivery,Express delivery takes 1 to 2 business days.
+POL_013,delivery,Delivery timelines begin after the order is confirmed.
+POL_014,delivery,Business days exclude Sundays and public holidays.
+POL_015,delivery,Customers receive an estimated delivery date after dispatch.
+POL_016,delivery,Delivery delays may occur due to weather conditions.
+POL_017,delivery,Customers must provide a complete delivery address.
+POL_018,delivery,Delivery charges are displayed before order confirmation.
+POL_019,delivery,Orders placed after 6 PM are processed the next business day.
+POL_020,delivery,A delivery attempt notification is sent to the registered phone number.
+POL_021,cancellation,Orders cannot be cancelled after they have been shipped.
+POL_022,cancellation,Customers can cancel orders before shipment.
+POL_023,cancellation,Cancellation requests must include the order ID.
+POL_024,cancellation,Cancelled prepaid orders are eligible for a refund.
+POL_025,cancellation,Cash-on-delivery orders are not charged when cancelled before dispatch.
+POL_026,cancellation,Customers receive an email after successful cancellation.
+POL_027,cancellation,Cancellation requests are subject to order processing status.
+POL_028,cancellation,Orders already handed to the delivery partner cannot be cancelled.
+POL_029,cancellation,Partial cancellation is available only when the order contains multiple items.
+POL_030,cancellation,Customers must contact support if the cancellation option is unavailable.
+POL_031,refunds,Refunds are processed within 5 to 7 business days after return approval.
+POL_032,refunds,Refunds for prepaid orders are sent to the original payment method.
+POL_033,refunds,Shipping charges are non-refundable unless the company made a delivery error.
+POL_034,refunds,Customers receive an email when a refund is initiated.
+POL_035,refunds,Refund processing time may vary by bank.
+POL_036,refunds,Failed refunds must be reported to customer support.
+POL_037,refunds,Cash-on-delivery refunds are transferred to the customer's bank account.
+POL_038,refunds,Customers must provide valid bank details for cash-on-delivery refunds.
+POL_039,refunds,Refunds are initiated only after returned products pass inspection.
+POL_040,refunds,Customers can check refund status from their account.
+POL_041,payments,"Cash on delivery is available for orders below ₹5,000."
+POL_042,payments,Credit cards are accepted for online payments.
+POL_043,payments,Debit cards are accepted for online payments.
+POL_044,payments,UPI payments are supported.
+POL_045,payments,Net banking is available for eligible banks.
+POL_046,payments,Payment must be completed before a prepaid order is confirmed.
+POL_047,payments,Customers should never share their payment PIN with support agents.
+POL_048,payments,The final payable amount is displayed before checkout confirmation.
+POL_049,payments,Promotional discounts are applied before the final payment amount is calculated.
+POL_050,payments,International credit cards are not currently accepted.
+POL_051,exchanges,Damaged products can be exchanged within 7 days of delivery.
+POL_052,exchanges,Exchange requests require the original order ID.
+POL_053,exchanges,Products must be available in stock for an exchange.
+POL_054,exchanges,Customers must upload photographs of damaged products when requested.
+POL_055,exchanges,Exchanges are subject to product inspection.
+POL_056,exchanges,Used products are not eligible for standard exchanges.
+POL_057,exchanges,Customers receive an email after exchange approval.
+POL_058,exchanges,Replacement products are shipped after exchange approval.
+POL_059,exchanges,Customers can request an exchange for a different size when available.
+POL_060,exchanges,Exchange requests submitted after 7 days are not eligible under the standard policy.
+POL_061,order_tracking,Customers can track orders using the tracking link sent to their registered email.
+POL_062,order_tracking,Tracking information becomes available after dispatch.
+POL_063,order_tracking,Customers receive a dispatch notification by email.
+POL_064,order_tracking,Tracking updates may take up to 24 hours to appear.
+POL_065,order_tracking,Customers can also find tracking details in their account.
+POL_066,order_tracking,The tracking link displays the latest shipment status.
+POL_067,order_tracking,Customers should contact support if tracking information is unavailable for 48 hours.
+POL_068,order_tracking,Delivery partners provide shipment movement updates.
+POL_069,order_tracking,Customers receive a delivery confirmation after successful delivery.
+POL_070,order_tracking,Tracking links are unique to individual shipments.
+POL_071,order_modifications,Delivery addresses can be changed before the order is shipped.
+POL_072,order_modifications,Changes are not permitted after shipping.
+POL_073,order_modifications,Customers can update their phone number before order dispatch.
+POL_074,order_modifications,Product quantities cannot be changed after order confirmation.
+POL_075,order_modifications,Customers must contact support to request an address correction.
+POL_076,order_modifications,Order modifications depend on processing status.
+POL_077,order_modifications,Billing addresses can be updated before invoice generation.
+POL_078,order_modifications,Customers cannot change the payment method after order confirmation.
+POL_079,order_modifications,Product variants can be changed only before order processing begins.
+POL_080,order_modifications,Customers receive confirmation when an order modification is successful.
+POL_081,warranty,Eligible electronic products include a 12-month manufacturer warranty.
+POL_082,warranty,Warranty coverage begins on the date of delivery.
+POL_083,warranty,Physical damage is not covered under the standard warranty.
+POL_084,warranty,Customers must provide proof of purchase for warranty claims.
+POL_085,warranty,Warranty claims are subject to product inspection.
+POL_086,warranty,Consumable accessories are excluded from the standard warranty.
+POL_087,warranty,Warranty service is available only at authorized service centres.
+POL_088,warranty,Customers receive a service request number after claim registration.
+POL_089,warranty,Unauthorized repairs may void warranty coverage.
+POL_090,warranty,Warranty replacement depends on inspection and product availability.
+POL_091,customer_support,Customer support is available from Monday to Saturday.
+POL_092,customer_support,Customer support operates between 9 AM and 6 PM.
+POL_093,customer_support,Customers can contact support through email.
+POL_094,customer_support,Customers can contact support through the website help centre.
+POL_095,customer_support,Customers should include their order ID when contacting support about an order.
+POL_096,customer_support,Support requests receive a ticket reference number.
+POL_097,customer_support,Customers can check ticket status using the reference number.
+POL_098,customer_support,Complex support requests may require additional investigation.
+POL_099,customer_support,Customers should not share passwords or payment PINs with support agents.
+POL_100,customer_support,Support responses are sent to the registered email address.

@@ -1,0 +1,502 @@
+[
+    {
+        "policy_id": "POL_001",
+        "category": "returns",
+        "policy": "Customers can return products within 30 days of delivery."
+    },
+    {
+        "policy_id": "POL_002",
+        "category": "returns",
+        "policy": "Returned products must be unused and in their original packaging."
+    },
+    {
+        "policy_id": "POL_003",
+        "category": "returns",
+        "policy": "Customers must provide the original order ID when requesting a return."
+    },
+    {
+        "policy_id": "POL_004",
+        "category": "returns",
+        "policy": "Products marked as final sale cannot be returned."
+    },
+    {
+        "policy_id": "POL_005",
+        "category": "returns",
+        "policy": "Return requests must be submitted through the customer account."
+    },
+    {
+        "policy_id": "POL_006",
+        "category": "returns",
+        "policy": "Customers receive a return confirmation after approval."
+    },
+    {
+        "policy_id": "POL_007",
+        "category": "returns",
+        "policy": "Products with missing accessories may be rejected for return."
+    },
+    {
+        "policy_id": "POL_008",
+        "category": "returns",
+        "policy": "Customers can request a return for defective products within 30 days."
+    },
+    {
+        "policy_id": "POL_009",
+        "category": "returns",
+        "policy": "Return eligibility is calculated from the delivery date."
+    },
+    {
+        "policy_id": "POL_010",
+        "category": "returns",
+        "policy": "Customers are notified by email when a return request is rejected."
+    },
+    {
+        "policy_id": "POL_011",
+        "category": "delivery",
+        "policy": "Standard delivery takes 3 to 5 business days."
+    },
+    {
+        "policy_id": "POL_012",
+        "category": "delivery",
+        "policy": "Express delivery takes 1 to 2 business days."
+    },
+    {
+        "policy_id": "POL_013",
+        "category": "delivery",
+        "policy": "Delivery timelines begin after the order is confirmed."
+    },
+    {
+        "policy_id": "POL_014",
+        "category": "delivery",
+        "policy": "Business days exclude Sundays and public holidays."
+    },
+    {
+        "policy_id": "POL_015",
+        "category": "delivery",
+        "policy": "Customers receive an estimated delivery date after dispatch."
+    },
+    {
+        "policy_id": "POL_016",
+        "category": "delivery",
+        "policy": "Delivery delays may occur due to weather conditions."
+    },
+    {
+        "policy_id": "POL_017",
+        "category": "delivery",
+        "policy": "Customers must provide a complete delivery address."
+    },
+    {
+        "policy_id": "POL_018",
+        "category": "delivery",
+        "policy": "Delivery charges are displayed before order confirmation."
+    },
+    {
+        "policy_id": "POL_019",
+        "category": "delivery",
+        "policy": "Orders placed after 6 PM are processed the next business day."
+    },
+    {
+        "policy_id": "POL_020",
+        "category": "delivery",
+        "policy": "A delivery attempt notification is sent to the registered phone number."
+    },
+    {
+        "policy_id": "POL_021",
+        "category": "cancellation",
+        "policy": "Orders cannot be cancelled after they have been shipped."
+    },
+    {
+        "policy_id": "POL_022",
+        "category": "cancellation",
+        "policy": "Customers can cancel orders before shipment."
+    },
+    {
+        "policy_id": "POL_023",
+        "category": "cancellation",
+        "policy": "Cancellation requests must include the order ID."
+    },
+    {
+        "policy_id": "POL_024",
+        "category": "cancellation",
+        "policy": "Cancelled prepaid orders are eligible for a refund."
+    },
+    {
+        "policy_id": "POL_025",
+        "category": "cancellation",
+        "policy": "Cash-on-delivery orders are not charged when cancelled before dispatch."
+    },
+    {
+        "policy_id": "POL_026",
+        "category": "cancellation",
+        "policy": "Customers receive an email after successful cancellation."
+    },
+    {
+        "policy_id": "POL_027",
+        "category": "cancellation",
+        "policy": "Cancellation requests are subject to order processing status."
+    },
+    {
+        "policy_id": "POL_028",
+        "category": "cancellation",
+        "policy": "Orders already handed to the delivery partner cannot be cancelled."
+    },
+    {
+        "policy_id": "POL_029",
+        "category": "cancellation",
+        "policy": "Partial cancellation is available only when the order contains multiple items."
+    },
+    {
+        "policy_id": "POL_030",
+        "category": "cancellation",
+        "policy": "Customers must contact support if the cancellation option is unavailable."
+    },
+    {
+        "policy_id": "POL_031",
+        "category": "refunds",
+        "policy": "Refunds are processed within 5 to 7 business days after return approval."
+    },
+    {
+        "policy_id": "POL_032",
+        "category": "refunds",
+        "policy": "Refunds for prepaid orders are sent to the original payment method."
+    },
+    {
+        "policy_id": "POL_033",
+        "category": "refunds",
+        "policy": "Shipping charges are non-refundable unless the company made a delivery error."
+    },
+    {
+        "policy_id": "POL_034",
+        "category": "refunds",
+        "policy": "Customers receive an email when a refund is initiated."
+    },
+    {
+        "policy_id": "POL_035",
+        "category": "refunds",
+        "policy": "Refund processing time may vary by bank."
+    },
+    {
+        "policy_id": "POL_036",
+        "category": "refunds",
+        "policy": "Failed refunds must be reported to customer support."
+    },
+    {
+        "policy_id": "POL_037",
+        "category": "refunds",
+        "policy": "Cash-on-delivery refunds are transferred to the customer's bank account."
+    },
+    {
+        "policy_id": "POL_038",
+        "category": "refunds",
+        "policy": "Customers must provide valid bank details for cash-on-delivery refunds."
+    },
+    {
+        "policy_id": "POL_039",
+        "category": "refunds",
+        "policy": "Refunds are initiated only after returned products pass inspection."
+    },
+    {
+        "policy_id": "POL_040",
+        "category": "refunds",
+        "policy": "Customers can check refund status from their account."
+    },
+    {
+        "policy_id": "POL_041",
+        "category": "payments",
+        "policy": "Cash on delivery is available for orders below ₹5,000."
+    },
+    {
+        "policy_id": "POL_042",
+        "category": "payments",
+        "policy": "Credit cards are accepted for online payments."
+    },
+    {
+        "policy_id": "POL_043",
+        "category": "payments",
+        "policy": "Debit cards are accepted for online payments."
+    },
+    {
+        "policy_id": "POL_044",
+        "category": "payments",
+        "policy": "UPI payments are supported."
+    },
+    {
+        "policy_id": "POL_045",
+        "category": "payments",
+        "policy": "Net banking is available for eligible banks."
+    },
+    {
+        "policy_id": "POL_046",
+        "category": "payments",
+        "policy": "Payment must be completed before a prepaid order is confirmed."
+    },
+    {
+        "policy_id": "POL_047",
+        "category": "payments",
+        "policy": "Customers should never share their payment PIN with support agents."
+    },
+    {
+        "policy_id": "POL_048",
+        "category": "payments",
+        "policy": "The final payable amount is displayed before checkout confirmation."
+    },
+    {
+        "policy_id": "POL_049",
+        "category": "payments",
+        "policy": "Promotional discounts are applied before the final payment amount is calculated."
+    },
+    {
+        "policy_id": "POL_050",
+        "category": "payments",
+        "policy": "International credit cards are not currently accepted."
+    },
+    {
+        "policy_id": "POL_051",
+        "category": "exchanges",
+        "policy": "Damaged products can be exchanged within 7 days of delivery."
+    },
+    {
+        "policy_id": "POL_052",
+        "category": "exchanges",
+        "policy": "Exchange requests require the original order ID."
+    },
+    {
+        "policy_id": "POL_053",
+        "category": "exchanges",
+        "policy": "Products must be available in stock for an exchange."
+    },
+    {
+        "policy_id": "POL_054",
+        "category": "exchanges",
+        "policy": "Customers must upload photographs of damaged products when requested."
+    },
+    {
+        "policy_id": "POL_055",
+        "category": "exchanges",
+        "policy": "Exchanges are subject to product inspection."
+    },
+    {
+        "policy_id": "POL_056",
+        "category": "exchanges",
+        "policy": "Used products are not eligible for standard exchanges."
+    },
+    {
+        "policy_id": "POL_057",
+        "category": "exchanges",
+        "policy": "Customers receive an email after exchange approval."
+    },
+    {
+        "policy_id": "POL_058",
+        "category": "exchanges",
+        "policy": "Replacement products are shipped after exchange approval."
+    },
+    {
+        "policy_id": "POL_059",
+        "category": "exchanges",
+        "policy": "Customers can request an exchange for a different size when available."
+    },
+    {
+        "policy_id": "POL_060",
+        "category": "exchanges",
+        "policy": "Exchange requests submitted after 7 days are not eligible under the standard policy."
+    },
+    {
+        "policy_id": "POL_061",
+        "category": "order_tracking",
+        "policy": "Customers can track orders using the tracking link sent to their registered email."
+    },
+    {
+        "policy_id": "POL_062",
+        "category": "order_tracking",
+        "policy": "Tracking information becomes available after dispatch."
+    },
+    {
+        "policy_id": "POL_063",
+        "category": "order_tracking",
+        "policy": "Customers receive a dispatch notification by email."
+    },
+    {
+        "policy_id": "POL_064",
+        "category": "order_tracking",
+        "policy": "Tracking updates may take up to 24 hours to appear."
+    },
+    {
+        "policy_id": "POL_065",
+        "category": "order_tracking",
+        "policy": "Customers can also find tracking details in their account."
+    },
+    {
+        "policy_id": "POL_066",
+        "category": "order_tracking",
+        "policy": "The tracking link displays the latest shipment status."
+    },
+    {
+        "policy_id": "POL_067",
+        "category": "order_tracking",
+        "policy": "Customers should contact support if tracking information is unavailable for 48 hours."
+    },
+    {
+        "policy_id": "POL_068",
+        "category": "order_tracking",
+        "policy": "Delivery partners provide shipment movement updates."
+    },
+    {
+        "policy_id": "POL_069",
+        "category": "order_tracking",
+        "policy": "Customers receive a delivery confirmation after successful delivery."
+    },
+    {
+        "policy_id": "POL_070",
+        "category": "order_tracking",
+        "policy": "Tracking links are unique to individual shipments."
+    },
+    {
+        "policy_id": "POL_071",
+        "category": "order_modifications",
+        "policy": "Delivery addresses can be changed before the order is shipped."
+    },
+    {
+        "policy_id": "POL_072",
+        "category": "order_modifications",
+        "policy": "Changes are not permitted after shipping."
+    },
+    {
+        "policy_id": "POL_073",
+        "category": "order_modifications",
+        "policy": "Customers can update their phone number before order dispatch."
+    },
+    {
+        "policy_id": "POL_074",
+        "category": "order_modifications",
+        "policy": "Product quantities cannot be changed after order confirmation."
+    },
+    {
+        "policy_id": "POL_075",
+        "category": "order_modifications",
+        "policy": "Customers must contact support to request an address correction."
+    },
+    {
+        "policy_id": "POL_076",
+        "category": "order_modifications",
+        "policy": "Order modifications depend on processing status."
+    },
+    {
+        "policy_id": "POL_077",
+        "category": "order_modifications",
+        "policy": "Billing addresses can be updated before invoice generation."
+    },
+    {
+        "policy_id": "POL_078",
+        "category": "order_modifications",
+        "policy": "Customers cannot change the payment method after order confirmation."
+    },
+    {
+        "policy_id": "POL_079",
+        "category": "order_modifications",
+        "policy": "Product variants can be changed only before order processing begins."
+    },
+    {
+        "policy_id": "POL_080",
+        "category": "order_modifications",
+        "policy": "Customers receive confirmation when an order modification is successful."
+    },
+    {
+        "policy_id": "POL_081",
+        "category": "warranty",
+        "policy": "Eligible electronic products include a 12-month manufacturer warranty."
+    },
+    {
+        "policy_id": "POL_082",
+        "category": "warranty",
+        "policy": "Warranty coverage begins on the date of delivery."
+    },
+    {
+        "policy_id": "POL_083",
+        "category": "warranty",
+        "policy": "Physical damage is not covered under the standard warranty."
+    },
+    {
+        "policy_id": "POL_084",
+        "category": "warranty",
+        "policy": "Customers must provide proof of purchase for warranty claims."
+    },
+    {
+        "policy_id": "POL_085",
+        "category": "warranty",
+        "policy": "Warranty claims are subject to product inspection."
+    },
+    {
+        "policy_id": "POL_086",
+        "category": "warranty",
+        "policy": "Consumable accessories are excluded from the standard warranty."
+    },
+    {
+        "policy_id": "POL_087",
+        "category": "warranty",
+        "policy": "Warranty service is available only at authorized service centres."
+    },
+    {
+        "policy_id": "POL_088",
+        "category": "warranty",
+        "policy": "Customers receive a service request number after claim registration."
+    },
+    {
+        "policy_id": "POL_089",
+        "category": "warranty",
+        "policy": "Unauthorized repairs may void warranty coverage."
+    },
+    {
+        "policy_id": "POL_090",
+        "category": "warranty",
+        "policy": "Warranty replacement depends on inspection and product availability."
+    },
+    {
+        "policy_id": "POL_091",
+        "category": "customer_support",
+        "policy": "Customer support is available from Monday to Saturday."
+    },
+    {
+        "policy_id": "POL_092",
+        "category": "customer_support",
+        "policy": "Customer support operates between 9 AM and 6 PM."
+    },
+    {
+        "policy_id": "POL_093",
+        "category": "customer_support",
+        "policy": "Customers can contact support through email."
+    },
+    {
+        "policy_id": "POL_094",
+        "category": "customer_support",
+        "policy": "Customers can contact support through the website help centre."
+    },
+    {
+        "policy_id": "POL_095",
+        "category": "customer_support",
+        "policy": "Customers should include their order ID when contacting support about an order."
+    },
+    {
+        "policy_id": "POL_096",
+        "category": "customer_support",
+        "policy": "Support requests receive a ticket reference number."
+    },
+    {
+        "policy_id": "POL_097",
+        "category": "customer_support",
+        "policy": "Customers can check ticket status using the reference number."
+    },
+    {
+        "policy_id": "POL_098",
+        "category": "customer_support",
+        "policy": "Complex support requests may require additional investigation."
+    },
+    {
+        "policy_id": "POL_099",
+        "category": "customer_support",
+        "policy": "Customers should not share passwords or payment PINs with support agents."
+    },
+    {
+        "policy_id": "POL_100",
+        "category": "customer_support",
+        "policy": "Support responses are sent to the registered email address."
+    }
+]
